@@ -5,11 +5,19 @@ A small Angular app designed to display colour swatches nicely.
 ![Screenshot](screenshot.png)
 
 
-## Usage
+## Development
 
-1. Clone the repo
-2. Change the branding in the footer to your own
-3. Add colours in the `main.js` file:
+Clone the repository.
+
+Get the development environment setup:
+
+    npm install
+    bower install
+    grunt server
+
+Change the branding in the footer to your own.
+
+Add colours in the `main.js` file:
 
 ```js
 $scope.colours = [
@@ -18,3 +26,9 @@ $scope.colours = [
   { name: 'raspberry', code: 'fb006f' }
 ];
 ```
+
+## Distribution
+
+Build a minified version of the colour swatches:
+
+    grunt build
