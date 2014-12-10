@@ -2,6 +2,8 @@
 
 A small Angular app designed to display colour swatches nicely.
 
+![Screenshot](screenshot.png)
+
 
 ## Usage
 
