@@ -1,0 +1,24 @@
+<div class="jumbotron">
+  <h1>Colours</h1>
+  <p >
+    Colour swatches for <b>{{clientWebsite}}</b>
+  </p>
+</div>
+
+<div class="row">
+  <div class="col-md-12 clearfix">
+    <div class="swatch" ng-repeat="colour in colours">
+      <span class="name">{{colour.name}}</span>
+      <div class="colour" style="background-color: #{{colour.code}}">
+        <span>#{{colour.code}}</span>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="footer">
+  <p>
+    <img src="http://christinaholly.com/site/assets/files/1091/td_logo_smaller-square-transparent.png">
+    Prepared by <a href="http://tinaciousdesign.com" target="_blank">Tinacious Design</a> for <b>{{clientNameFooter}}</b>
+  </p>
+</div>
