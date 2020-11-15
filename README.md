@@ -1,4 +1,7 @@
-This repo is deprecated. See a living version here: https://codepen.io/tinacious/pen/pobYoWj
+This repo is deprecated. See a living version here: 
+
+- View: https://codepen.io/tinacious/full/pobYoWj
+- Edit: https://codepen.io/tinacious/pen/pobYoWj
 
 ----
 
