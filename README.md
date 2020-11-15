@@ -1,3 +1,7 @@
+This repo is deprecated. See a living version here: https://codepen.io/tinacious/pen/pobYoWj
+
+----
+
 # Colour Swatches
 
 A small Angular app designed to display colour swatches nicely.
